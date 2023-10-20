@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d0cffc07-a32c-40a3-911c-dbb7a4ac1ffc" name="Changes" comment="1">
-      <change afterPath="$PROJECT_DIR$/src/HomeWork/Animals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork/Understudy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Storage.java" afterDir="false" />
+    <list default="true" id="d0cffc07-a32c-40a3-911c-dbb7a4ac1ffc" name="Changes" comment="2.2">
+      <change afterPath="$PROJECT_DIR$/src/HomeWork/MainArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork/MainStud.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork/MyArrList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork/main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,15 +33,41 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "E:/TeachMeSkills/HomeWork_13"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/TeachMeSkills/HomeWork_13&quot;
   }
-}]]></component>
-  <component name="RunManager">
+}</component>
+  <component name="RunManager" selected="Application.MainArrayList">
+    <configuration name="MainArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork.MainArrayList" />
+      <module name="HomeWork_13" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HomeWork.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainStud" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork.MainStud" />
+      <module name="HomeWork_13" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HomeWork.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HomeWork.main" />
       <module name="HomeWork_13" />
@@ -58,6 +83,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainArrayList" />
+        <item itemvalue="Application.MainStud" />
         <item itemvalue="Application.main" />
       </list>
     </recent_temporary>
@@ -72,7 +99,9 @@
       <updated>1697217276809</updated>
       <workItem from="1697217279004" duration="4263000" />
       <workItem from="1697438097768" duration="119000" />
-      <workItem from="1697439591983" duration="9414000" />
+      <workItem from="1697439591983" duration="10301000" />
+      <workItem from="1697474574831" duration="57000" />
+      <workItem from="1697789488928" duration="12580000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1697217295308</created>
@@ -81,7 +110,14 @@
       <option name="project" value="LOCAL" />
       <updated>1697217295308</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="2.2">
+      <created>1697456471883</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1697456471883</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -100,17 +136,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1" />
-    <option name="LAST_COMMIT_MESSAGE" value="1" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/HomeWork/main.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="2.2" />
+    <option name="LAST_COMMIT_MESSAGE" value="2.2" />
   </component>
 </project>

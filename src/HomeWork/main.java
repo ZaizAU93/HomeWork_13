@@ -22,8 +22,6 @@ public class main {
                    System.out.print(p + " ");
                }
                System.out.println();
-           }else {
-               System.out.println("Вы ввели ерунду");
            }
        }while(!line.equals("3"));
 
