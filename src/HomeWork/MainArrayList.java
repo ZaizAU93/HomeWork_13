@@ -16,5 +16,7 @@ public class MainArrayList {
         arrList.removeAtIndex(4);
        // System.out.println("Поиск элемента " + arrList.search(5));
         arrList.printArrList();
+        arrList.search(3);
+        arrList.clear();
     }
 }
